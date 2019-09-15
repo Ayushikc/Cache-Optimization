@@ -1,0 +1,340 @@
+1: L1 Cache D-size =32kB, L1 Cache I-size=32kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.071188                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000851                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.491426                       # miss rate for overall accesses
+2: L1 Cache D-size =32kB, L1 Cache I-size=32kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.055503                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000756                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.397678                       # miss rate for overall accesses
+3: L1 Cache D-size =32kB, L1 Cache I-size=32kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.071188                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.504928                       # miss rate for overall accesses
+4: L1 Cache D-size =32kB, L1 Cache I-size=32kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.055503                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.410138                       # miss rate for overall accesses
+5: L1 Cache D-size =32kB, L1 Cache I-size=32kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.065136                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000851                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.535058                       # miss rate for overall accesses
+6: L1 Cache D-size =32kB, L1 Cache I-size=32kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.050060                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000756                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.438696                       # miss rate for overall accesses
+7: L1 Cache D-size =32kB, L1 Cache I-size=32kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.065136                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.551125                       # miss rate for overall accesses
+8: L1 Cache D-size =32kB, L1 Cache I-size=32kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.050060                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.453937                       # miss rate for overall accesses
+9: L1 Cache D-size =32kB, L1 Cache I-size=32kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.064321                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000851                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.541339                       # miss rate for overall accesses
+10: L1 Cache D-size =32kB, L1 Cache I-size=32kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.049790                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000756                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.440792                       # miss rate for overall accesses
+11: L1 Cache D-size =32kB, L1 Cache I-size=32kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.064321                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.557801                       # miss rate for overall accesses
+12: L1 Cache D-size =32kB, L1 Cache I-size=32kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.049790                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.456188                       # miss rate for overall accesses
+13: L1 Cache D-size =32kB, L1 Cache I-size=64kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.071188                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000058                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.504016                       # miss rate for overall accesses
+14: L1 Cache D-size =32kB, L1 Cache I-size=64kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.055503                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000057                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.409189                       # miss rate for overall accesses
+15: L1 Cache D-size =32kB, L1 Cache I-size=64kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.071188                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.504926                       # miss rate for overall accesses
+16: L1 Cache D-size =32kB, L1 Cache I-size=64kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.055503                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.410135                       # miss rate for overall accesses
+17: L1 Cache D-size =32kB, L1 Cache I-size=64kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.065136                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000058                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.550038                       # miss rate for overall accesses
+18: L1 Cache D-size =32kB, L1 Cache I-size=64kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.050060                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000057                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.452772                       # miss rate for overall accesses
+19: L1 Cache D-size =32kB, L1 Cache I-size=64kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.065136                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.551124                       # miss rate for overall accesses
+20: L1 Cache D-size =32kB, L1 Cache I-size=64kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.050060                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.453934                       # miss rate for overall accesses
+21: L1 Cache D-size =32kB, L1 Cache I-size=64kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.064321                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000058                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.556687                       # miss rate for overall accesses
+22: L1 Cache D-size =32kB, L1 Cache I-size=64kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.049790                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000057                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.455012                       # miss rate for overall accesses
+23: L1 Cache D-size =32kB, L1 Cache I-size=64kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.064321                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.557800                       # miss rate for overall accesses
+24: L1 Cache D-size =32kB, L1 Cache I-size=64kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.049790                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.456185                       # miss rate for overall accesses
+25: L1 Cache D-size =32kB, L1 Cache I-size=128kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.071188                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.504926                       # miss rate for overall accesses
+26: L1 Cache D-size =32kB, L1 Cache I-size=128kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.055503                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.410136                       # miss rate for overall accesses
+27: L1 Cache D-size =32kB, L1 Cache I-size=128kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.071188                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.504926                       # miss rate for overall accesses
+28: L1 Cache D-size =32kB, L1 Cache I-size=128kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.055503                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.410135                       # miss rate for overall accesses
+29: L1 Cache D-size =32kB, L1 Cache I-size=128kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.065136                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.551124                       # miss rate for overall accesses
+30: L1 Cache D-size =32kB, L1 Cache I-size=128kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.050060                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.453934                       # miss rate for overall accesses
+31: L1 Cache D-size =32kB, L1 Cache I-size=128kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.065136                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.551124                       # miss rate for overall accesses
+32: L1 Cache D-size =32kB, L1 Cache I-size=128kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.050060                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.453934                       # miss rate for overall accesses
+33: L1 Cache D-size =32kB, L1 Cache I-size=128kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.064321                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.557799                       # miss rate for overall accesses
+34: L1 Cache D-size =32kB, L1 Cache I-size=128kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.049790                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.456186                       # miss rate for overall accesses
+35: L1 Cache D-size =32kB, L1 Cache I-size=128kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.064321                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.557799                       # miss rate for overall accesses
+36: L1 Cache D-size =32kB, L1 Cache I-size=128kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.049790                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.456185                       # miss rate for overall accesses
+37: L1 Cache D-size =64kB, L1 Cache I-size=32kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.059251                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000851                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.585218                       # miss rate for overall accesses
+38: L1 Cache D-size =64kB, L1 Cache I-size=32kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.045866                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000756                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.475809                       # miss rate for overall accesses
+39: L1 Cache D-size =64kB, L1 Cache I-size=32kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.059251                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.604538                       # miss rate for overall accesses
+40: L1 Cache D-size =64kB, L1 Cache I-size=32kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.045866                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.493852                       # miss rate for overall accesses
+41: L1 Cache D-size =64kB, L1 Cache I-size=32kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.053112                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000851                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.646329                       # miss rate for overall accesses
+42: L1 Cache D-size =64kB, L1 Cache I-size=32kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.042552                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000756                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.508194                       # miss rate for overall accesses
+43: L1 Cache D-size =64kB, L1 Cache I-size=32kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.053112                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.670133                       # miss rate for overall accesses
+44: L1 Cache D-size =64kB, L1 Cache I-size=32kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.042552                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.528966                       # miss rate for overall accesses
+45: L1 Cache D-size =64kB, L1 Cache I-size=32kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.051874                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000851                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.660581                       # miss rate for overall accesses
+46: L1 Cache D-size =64kB, L1 Cache I-size=32kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.042299                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000756                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.510769                       # miss rate for overall accesses
+47: L1 Cache D-size =64kB, L1 Cache I-size=32kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.051874                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.685491                       # miss rate for overall accesses
+48: L1 Cache D-size =64kB, L1 Cache I-size=32kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.042299                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.531771                       # miss rate for overall accesses
+49: L1 Cache D-size =64kB, L1 Cache I-size=64kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.059251                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000058                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.603227                       # miss rate for overall accesses
+50: L1 Cache D-size =64kB, L1 Cache I-size=64kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.045866                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000057                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.492470                       # miss rate for overall accesses
+51: L1 Cache D-size =64kB, L1 Cache I-size=64kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.059251                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.604537                       # miss rate for overall accesses
+52: L1 Cache D-size =64kB, L1 Cache I-size=64kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.045866                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.493849                       # miss rate for overall accesses
+53: L1 Cache D-size =64kB, L1 Cache I-size=64kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.053112                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000058                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.668512                       # miss rate for overall accesses
+54: L1 Cache D-size =64kB, L1 Cache I-size=64kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.042552                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000057                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.527370                       # miss rate for overall accesses
+55: L1 Cache D-size =64kB, L1 Cache I-size=64kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.053112                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.670131                       # miss rate for overall accesses
+56: L1 Cache D-size =64kB, L1 Cache I-size=64kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.042552                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.528962                       # miss rate for overall accesses
+57: L1 Cache D-size =64kB, L1 Cache I-size=64kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.051874                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000058                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.683794                       # miss rate for overall accesses
+58: L1 Cache D-size =64kB, L1 Cache I-size=64kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.042299                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000057                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.530158                       # miss rate for overall accesses
+59: L1 Cache D-size =64kB, L1 Cache I-size=64kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.051874                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.685490                       # miss rate for overall accesses
+60: L1 Cache D-size =64kB, L1 Cache I-size=64kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.042299                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.531768                       # miss rate for overall accesses
+61: L1 Cache D-size =64kB, L1 Cache I-size=128kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.059251                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.604537                       # miss rate for overall accesses
+62: L1 Cache D-size =64kB, L1 Cache I-size=128kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.045866                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.493850                       # miss rate for overall accesses
+63: L1 Cache D-size =64kB, L1 Cache I-size=128kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.059251                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.604537                       # miss rate for overall accesses
+64: L1 Cache D-size =64kB, L1 Cache I-size=128kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.045866                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.493849                       # miss rate for overall accesses
+65: L1 Cache D-size =64kB, L1 Cache I-size=128kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.053112                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.670131                       # miss rate for overall accesses
+66: L1 Cache D-size =64kB, L1 Cache I-size=128kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.042552                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.528963                       # miss rate for overall accesses
+67: L1 Cache D-size =64kB, L1 Cache I-size=128kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.053112                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.670131                       # miss rate for overall accesses
+68: L1 Cache D-size =64kB, L1 Cache I-size=128kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.042552                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.528962                       # miss rate for overall accesses
+69: L1 Cache D-size =64kB, L1 Cache I-size=128kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.051874                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.685489                       # miss rate for overall accesses
+70: L1 Cache D-size =64kB, L1 Cache I-size=128kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.042299                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.531768                       # miss rate for overall accesses
+71: L1 Cache D-size =64kB, L1 Cache I-size=128kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.051874                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.685490                       # miss rate for overall accesses
+72: L1 Cache D-size =64kB, L1 Cache I-size=128kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.042299                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.531767                       # miss rate for overall accesses
+73: L1 Cache D-size =128kB, L1 Cache I-size=32kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.050655                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000851                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.676920                       # miss rate for overall accesses
+74: L1 Cache D-size =128kB, L1 Cache I-size=32kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.038243                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000756                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.562247                       # miss rate for overall accesses
+75: L1 Cache D-size =128kB, L1 Cache I-size=32kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.050655                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.703062                       # miss rate for overall accesses
+76: L1 Cache D-size =128kB, L1 Cache I-size=32kB, L1 D-Asso=1, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.038243                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.587819                       # miss rate for overall accesses
+77: L1 Cache D-size =128kB, L1 Cache I-size=32kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.043811                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000851                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.768725                       # miss rate for overall accesses
+78: L1 Cache D-size =128kB, L1 Cache I-size=32kB, L1 D-Asso=4, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.032801                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000756                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.640742                       # miss rate for overall accesses
+79: L1 Cache D-size =128kB, L1 Cache I-size=32kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.043811                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.803050                       # miss rate for overall accesses
+80: L1 Cache D-size =128kB, L1 Cache I-size=32kB, L1 D-Asso=4, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.032801                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.674719                       # miss rate for overall accesses
+81: L1 Cache D-size =128kB, L1 Cache I-size=32kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.042786                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000851                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.784879                       # miss rate for overall accesses
+82: L1 Cache D-size =128kB, L1 Cache I-size=32kB, L1 D-Asso=8, L1 I-Asso=1, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.031273                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000756                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.667836                       # miss rate for overall accesses
+83: L1 Cache D-size =128kB, L1 Cache I-size=32kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.042786                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000002                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.820764                       # miss rate for overall accesses
+84: L1 Cache D-size =128kB, L1 Cache I-size=32kB, L1 D-Asso=8, L1 I-Asso=8, Block_size = 64
+system.cpu.dcache.overall_miss_rate::total     0.031273                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000001                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.704982                       # miss rate for overall accesses
+85: L1 Cache D-size =128kB, L1 Cache I-size=64kB, L1 D-Asso=1, L1 I-Asso=1, Block_size = 32
+system.cpu.dcache.overall_miss_rate::total     0.050655                       # miss rate for overall accesses
+system.cpu.icache.overall_miss_rate::total     0.000058                       # miss rate for overall accesses
+system.l2.overall_miss_rate::total           0.701279                       # miss rate for overall accesses
